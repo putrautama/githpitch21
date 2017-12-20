@@ -25,13 +25,15 @@ About Us
 Contact Us
 
 ### Tampilan pages content only
-[![pages-content-only](/document/aplikasi/portal/images/pengembangan/pages-content-only.png)](/document/aplikasi/portal/images/pengembangan/pages-content-only)
+[![pages-content-only](/assets/image/pages-content-only.png)
+
 ---
 
 Tampilan ini menjelaskan content-content mengenai aplikasi didalam halaman ini hanya menimbulkan content berupa tulisan tanpa ada gambar.
 
 ### Tampilan pages content and photo
-[![pages-content-dan-photo](/document/aplikasi/portal/images/pengembangan/pages-content-dan-photo.png)](/document/aplikasi/portal/images/pengembangan/pages-content-dan-photo.png)
+[![pages-content-dan-photo](/assets/image/pages-content-dan-photo.png)
+
 ---
 
 Tampilan ini menampilkan content-content berupa gambar dengan pejelasan dari arti gambar tersebut.
