@@ -25,14 +25,14 @@ About Us
 Contact Us
 
 ### Tampilan pages content only
-[![pages-content-only](/asessts/image/pages-content-only.png)
+![pages-content-only](/asessts/image/pages-content-only.png)
 
 ---
 
 Tampilan ini menjelaskan content-content mengenai aplikasi didalam halaman ini hanya menimbulkan content berupa tulisan tanpa ada gambar.
 
 ### Tampilan pages content and photo
-[![pages-content-dan-photo](/asessts/image/pages-content-dan-photo.png)
+![pages-content-dan-photo](/asessts/image/pages-content-dan-photo.png)
 
 ---
 
