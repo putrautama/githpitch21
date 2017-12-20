@@ -13,7 +13,7 @@ Untuk memulai akses User terhadap aplikasi Portal Banten. Buka web browser (IE, 
 ---
 
 ### Tampilan menu utama
-![tampilan-home-portal.png](/assets/image/tampilan-home-portal.png)
+![tampilan-home-portal.png](/asessts/image/tampilan-home-portal.png)
 
 ---
 ditampilan ini terdapat bebrapa list menu yang terdapat pada bagian atas aplikasi yaitu:
@@ -25,14 +25,14 @@ About Us
 Contact Us
 
 ### Tampilan pages content only
-[![pages-content-only](/assets/image/pages-content-only.png)
+[![pages-content-only](/asessts/image/pages-content-only.png)
 
 ---
 
 Tampilan ini menjelaskan content-content mengenai aplikasi didalam halaman ini hanya menimbulkan content berupa tulisan tanpa ada gambar.
 
 ### Tampilan pages content and photo
-[![pages-content-dan-photo](/assets/image/pages-content-dan-photo.png)
+[![pages-content-dan-photo](/asessts/image/pages-content-dan-photo.png)
 
 ---
 
