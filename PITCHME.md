@@ -4,36 +4,21 @@ Sistem informasi saat ini semakin berkembang pesat membuat semua pekerjaan dikeh
 
 ---
 
-E-government menjadi proses pemanfaatan tekhnologi informasi sebagai media untuk membantu menjalankan sistem pemerintahan secara lebih efektif dan efisien. Sebagai wujud dari penerapan e-government di Indonesia salah satunya adalah dengan pembuatan website pemerintah daerah. Saat ini belum terdapat portal yang menampung informasi yang ada di Banten sehingga jika mnasyarakat ingin mencari suatu informasi ia harus mencari website terkait dengan informasi yang dicari, sehingga agak merepotkan bagi masyarakat. Dengan adanya portal web ini diharapkan dapat membantu masyarakat dalam mencari informasi dan dinas terkait yang ingin mengshare informasi yang ia punya. Menyediakan situs portal pemerintah sebagai wadah untuk semua informasi yang terdapat di setiap dinas / OPD ysng terdapat dilingkungan pemerintah provinsi Banten.
 
----
-
-Untuk memulai akses User terhadap aplikasi Portal Banten. Buka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url : http://portal-01.dev.bantenprov.go.id kemudian tekan Enter pada tombol keyboard atau klik tombol Go pada browser.
-
----
 
 ### Tampilan menu utama
 ![tampilan-home-portal.png](/asessts/image/tampilan-home-portal.png)
 
 ---
-ditampilan ini terdapat bebrapa list menu yang terdapat pada bagian atas aplikasi yaitu:
-Pages
-Blog
-Gallery
-News and event
-About Us
-Contact Us
 
 ### Tampilan pages content only
 ![pages-content-only](/asessts/image/pages-content-only.png)
 
 ---
 
-Tampilan ini menjelaskan content-content mengenai aplikasi didalam halaman ini hanya menimbulkan content berupa tulisan tanpa ada gambar.
 
 ### Tampilan pages content and photo
 ![pages-content-dan-photo](/asessts/image/pages-content-dan-photo.png)
 
 ---
 
-Tampilan ini menampilkan content-content berupa gambar dengan pejelasan dari arti gambar tersebut.
